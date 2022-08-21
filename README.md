@@ -10,11 +10,8 @@
 
 ###
 
-<h2 align="center">🔗</h2>
-
-###
-
-<p align="center">Link para acessar o projeto: https://teladeloguin.netlify.app/<br><br></p>
+<h2 align="center">
+</h2><p align="center">🔗 Link para acessar o projeto: https://teladeloguin.netlify.app/</p>
 
 ###
 
